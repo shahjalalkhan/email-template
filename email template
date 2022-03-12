@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="#ccc">
+    <table bgcolor="#fff"  align="center" width="650" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td style="width: 100%; background-color: #fdf112; height: 8px;">
+
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 100%;">
+                <img src="https://i.ibb.co/rFdSzHH/banner.jpg" alt="" style="width: 100%;">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table style="width: 100%; padding: 40px 40px 40px;" cellpadding="0" border="0" cellspacing="0">
+                    <tr>
+                        <td style="text-align: center; ">
+                            <span style="font-size: 15px; font-family: sans-serif; font-weight: 600; text-transform: uppercase; color: #15302f;">This Week</span>
+                            <p style="font-size: 15px; font-family: Georgia, 'Times New Roman', Times, serif; line-height: 2; margin: 0; font-weight: 700; color: #202020;">Explore 9 Ways that designers could make traveling less of a drag. Plus: Take a peek at our Cambridge studio;s vibrant new digs.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; padding:40px 0 25px;">
+                            <div style="width: 100%; height: 2px; background-color:#eaeaea;" >            
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%;">
+                            <img src="https://i.ibb.co/y6SGgk1/img1.jpg" width="100%" alt="">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; text-align: center; padding: 25px 0 40px;">
+                            <h3 style="font-size: 35px; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: 500; margin: 0;">9Travel Hassles We're Dying to Redesign</h3>
+                            <p style="margin: 15px 0 20px; font-size: 15px; font-weight: 600;">November 21, 2021</p>
+                            <span style="margin: 0; color: #9d9897; font-size: 15px; text-transform: uppercase;">By Heather kathryn ross</span>
+                            <p style="margin: 20px 0 35px; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: 500; line-height: 2;">IDEO designers imagine 9 ways we might improve upon the experience of getting wher we want to go.</p>
+                            <a href="#" style="margin: 0 0 40px; text-decoration: none; "><button style="padding: 15px 20px; background-color: #fdf112; color: #202020; outline: no; border: none; text-transform: uppercase; font-size: 15px;">
+                                read more</button></a>
+                        </td>                        
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; text-align: center; padding: 0 0 40px;">
+                            <a href="https://www.facebook.com/shahajalalkhan.shahajalalkhan/"><img src="https://i.ibb.co/zZH2hYm/facebook.png" style="width: 20px; height: 20px; margin: 0 5px;" alt=""></a>
+                            <a href="#"><img src="https://i.ibb.co/qRj3pM2/linkedin.png" style="width: 20px; height: 20px; margin: 0 5px;" alt=""></a>
+                            <a href="#"><img src="https://i.ibb.co/G2Sw1dh/twitter.png" style="width: 20px; height: 20px; margin: 0 5px;" alt=""></a>                             
+                        </td>
+                    </tr>               
+                </table>              
+            </td>
+        </tr> 
+        <tr>
+            <td>
+                <table style="width: 100%; padding: 0 40px 0;" cellpadding="0" border="0" cellspacing="0">
+                    <tr>
+                        <td style="width: 100%; padding:0 0 25px;">
+                            <div style="width: 100%; height: 2px; background-color:#eaeaea;" >            
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; padding: 0;">
+                            <img src="https://i.ibb.co/f0N8zCr/img2.jpg" style="width: 100%;" alt="">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; text-align: center; padding: 25px 0 40px;">
+                            <h3 style="font-size: 35px; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: 500; margin: 0;">Why Joy is the Best Protest</h3>
+                            <p style="margin: 15px 0 20px; font-size: 15px; font-weight: 600;">November 21, 2021</p>
+                            <span style="margin: 0; color: #9d9897; font-size: 15px; text-transform: uppercase;">By Heather kathryn ross</span>
+                            <p style="margin: 20px 0 35px; font-family: Georgia, 'Times New Roman', Times, serif; font-weight: 500; line-height: 2;">IDEO designers imagine 9 ways we might improve upon the experience of getting wher we want to go.</p>
+                            <a href="#" style="margin: 0 0 40px; text-decoration: none; "><button style="padding: 15px 20px; background-color: #fdf112; color: #202020; outline: no; border: none; text-transform: uppercase; font-size: 15px;">
+                                read more</button></a>
+                        </td>                        
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; text-align: center; padding: 0 0 40px;">
+                            <a href="https://www.facebook.com/shahajalalkhan.shahajalalkhan/"><img src="https://i.ibb.co/zZH2hYm/facebook.png" style="width: 20px; height: 20px; margin: 0 5px;" alt=""></a>
+                            <a href="#"><img src="https://i.ibb.co/qRj3pM2/linkedin.png" style="width: 20px; height: 20px; margin: 0 5px;" alt=""></a>
+                            <a href="#"><img src="https://i.ibb.co/G2Sw1dh/twitter.png" style="width: 20px; height: 20px; margin: 0 5px;" alt=""></a>                             
+                        </td>
+                    </tr>  
+                    <tr>
+                        <td style="width: 100%; padding:0 0 30px;">
+                            <div style="width: 100%; height: 2px; background-color:#eaeaea;" >            
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;">
+                            <h3 style="margin: 0 0 25px; font-size: 15px; font-weight: 600; letter-spacing: 2px; font-family: sans-serif;">WANT MORE?</h3>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; padding: 0 0 20px;">
+                            <div class="left" style="width: 46%; float: left; align-items: center; margin: 0 2% 0 0; text-align: center;">
+                                <img src="https://i.ibb.co/9yGSCZk/img3.jpg" style="width: 100%;" alt="">
+                                <h4 style="margin: 20px 0 0; font-weight: bold;"><a href="#" style="margin: 0; font-size: 15px; color: #202020;  font-family: Georgia, 'Times New Roman', Times, serif;">12Documentaries That Will Spark Your Creativity</a></h4>
+                            </div>
+                            <div class="right" style="width: 46%; float: right; align-items: center; margin: 0 0 0 2%; text-align: center;">
+                                <img src="https://i.ibb.co/2ZS7sqJ/img4.jpg" style="width: 100%;" alt="">
+                                <h4 style="margin: 20px 0 0;  font-weight: bold;"><a href="#" style="margin: 0; font-size: 15px; color: #202020; font-family: Georgia, 'Times New Roman', Times, serif;">A Day iv the Life of a Desk. Researcher</a></h4>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; padding: 0 0 30px;">
+                            <div class="left" style="width: 46%; float: left; align-items: center; margin: 0 2% 0 0; text-align: center;">
+                                <img src="https://i.ibb.co/37PRJt9/img5.jpg" style="width: 100%;" alt="">
+                                <h4 style="margin: 20px 0 0; font-weight: bold;"><a href="#" style="margin: 0; font-size: 15px; color: #202020; font-family: Georgia, 'Times New Roman', Times, serif; ">12Documentaries That Will Spark Your Creativity</a></h4>
+                            </div>
+                            <div class="right" style="width: 46%; float: right; align-items: center; margin: 0 0 0 2%; text-align: center;">
+                                <img src="https://i.ibb.co/3zBYQ3g/img6.jpg.jpg" style="width: 100%;" alt="">
+                                <h4 style="margin: 20px 0 0;  font-weight: bold;"><a href="#" style="margin: 0; font-size: 15px; color: #202020; font-family: Georgia, 'Times New Roman', Times, serif;">A Day iv the Life of a Desk. Researcher</a></h4>
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; padding:0 0 30px;">
+                            <div style="width: 100%; height: 2px; background-color:#eaeaea;" >            
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; text-align: center; padding: 0 0 50px;">
+                            <h3 style="font-family: sans-serif; color: #081e36; font-size: 15px; letter-spacing: 2px; margin: 0 0 15px;">ENJOYING OUR NEWSLETTER?</h3>
+                            <p style="margin: 0; font-size: 20px; ">Invite your friends to subscribe at <a href="#" style="color: #202020;">shahjalalkhan.com</a></p>
+                        </td>
+                    </tr>                                      
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table cellpadding="0" cellspacing="0" border="0" style="padding: 70px 40px 70px; background-color: #fdf112; text-align: center; width: 100%;">
+                    <tr>
+                        <td style="width: 100%;">
+                            <p style="margin: 0 0 20px; font-size: 14px; font-family: sans-serif;">You are reps re thls email because you signed up to reey° newsletters from The Octopus.</p>
+                            <p style="font-family: sans-serif; margin: 0; "><a href="#" style="color: #202020; font-weight: 500; font-size: 15px; margin-right: 20px;">Email Preferences</a> | <a href="#" style="color: #202020; font-weight: 500; font-size: 15px; margin-left: 20px;">Unsubscribe</a></p>
+                            <p style="margin: 20px 0 30px; font-family: sans-serif; font-style: italic;">Email Template Newsletter</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="width: 100%; text-align: center; padding: 0;">
+                            <a href="https://www.facebook.com/shahajalalkhan.shahajalalkhan/" target="blank"><img src="https://i.ibb.co/zrxB3jR/facebook2.png" style="width: 20px; height: 20px; margin: 0 5px;" alt=""></a>
+                            <a href="#"><img src="https://i.ibb.co/VVnn5tm/twitter2.png" style="width: 20px; height: 20px; margin: 0 5px;" alt=""></a>
+                            <a href="#"><img src="https://i.ibb.co/0VH96Dc/instragram.png" style="width: 20px; height: 20px; margin: 0 5px;" alt=""></a>                             
+                        </td>
+                    </tr>  
+                </table>
+            </td>
+        </tr>          
+    </table>
+</body>
+</html>
